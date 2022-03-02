@@ -1,0 +1,18 @@
+p {
+    background-color: pink;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#firstID {
+    color: blue;
+    font-size: 36px;
+}
+.secondPara {
+    font-size: 24px;
+}
+
+#secondID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
